@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const Customizer = () => {
   const [activePalette, setActivePalette] = useState(0);
