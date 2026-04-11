@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const steps = [
   { id: 1, title: 'Select Function', subtitle: 'Pick your event type', icon: (

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import photographerImg from '../assets/photographer.png';
 import makeupImg from '../assets/makeup.png';
 import cateringImg from '../assets/catering.png';
